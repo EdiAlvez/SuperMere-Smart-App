@@ -136,3 +136,4 @@ Os dados de demonstração são carregados automaticamente no primeiro acesso vi
 - ✅ Gestão de clientes e descontos
 - ✅ Relatórios com gráficos (vendas, produtos, clientes, categorias)
 - ✅ Criação e gestão de cupons
+# SuperMere-Smart-App
