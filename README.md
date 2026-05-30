@@ -65,23 +65,7 @@ src/
 npm install
 ```
 
-### 2. Copie seus arquivos de páginas
-
-Coloque seus arquivos `.tsx` nas pastas corretas:
-
-```
-src/pages/Home.tsx
-src/pages/client/Catalog.tsx
-src/pages/client/Register.tsx
-src/pages/client/Scanner.tsx
-src/pages/client/ShoppingList.tsx
-src/pages/client/Wallet.tsx
-src/pages/merchant/Dashboard.tsx
-src/pages/merchant/Reports.tsx
-src/pages/merchant/Coupons.tsx
-```
-
-### 3. Inicie o servidor de desenvolvimento
+### 2. Inicie o servidor de desenvolvimento
 
 ```bash
 npm run dev
@@ -89,7 +73,7 @@ npm run dev
 
 O app estará disponível em `http://localhost:5173`
 
-### 4. Build para produção
+### 3. Build para produção
 
 ```bash
 npm run build
