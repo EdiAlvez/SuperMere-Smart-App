@@ -1,0 +1,1 @@
+function e(e,t){let n=localStorage.getItem(e);if(!n)return t;try{return JSON.parse(n)}catch(n){return console.error(`Valor invalido no localStorage: ${e}`,n),localStorage.removeItem(e),t}}export{e as t};

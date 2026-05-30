@@ -1,0 +1,1 @@
+import{a as e,i as t,t as n}from"./index-By9Bd0OI.js";import{n as r}from"./merchantAuth-BFm7OzQV.js";var i=n();function a({children:n}){let a=e();return r()?(0,i.jsx)(i.Fragment,{children:n}):(0,i.jsx)(t,{to:`/merchant/login`,state:{from:a},replace:!0})}export{a as default};
